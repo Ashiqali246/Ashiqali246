@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Ashiq ali
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently working with Front-End 
+- 🌱 I’m currently working with Node.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
