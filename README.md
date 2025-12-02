@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Ashiq ali
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently working with Node.js 
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently working with Aws&Terraform 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
